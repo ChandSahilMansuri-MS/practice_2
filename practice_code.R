@@ -1,7 +1,7 @@
 library(ggplot2)
 library(dplyr)
 
-#this is the custom dataset
+# This is the custom dataset
 data <- data.frame(
   Name = c("Alice", "Bob", "Charlie", "David", "Eve"),
   Age = c(25, 30, 22, 28, 24),
